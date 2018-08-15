@@ -1,0 +1,18 @@
+(module Anten_OnBoard_SMD_2400MHz (layer F.Cu) (tedit 5A5597F9)
+  (fp_text reference AE1 (at 7.15 3.65) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value Antenna_OnBoard_SMD_2400MHz (at 0 0.25) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start 13.75 5.3) (end 13.75 0.07) (layer F.CrtYd) (width 0.1))
+  (fp_line (start 13.75 0.07) (end 0 0.07) (layer F.CrtYd) (width 0.1))
+  (fp_line (start 0 0.07) (end 0 5.3) (layer F.CrtYd) (width 0.1))
+  (fp_line (start 0 5.3) (end 13.75 5.3) (layer F.CrtYd) (width 0.1))
+  (fp_line (start 13.75 4.9) (end 0 4.9) (layer F.Fab) (width 0.05))
+  (fp_line (start 13.75 0.47) (end 0 0.47) (layer F.Fab) (width 0.05))
+  (pad 3 smd trapezoid (at 11.1 0.75) (size 1.4 1.7) (layers F.Cu F.Paste F.Mask))
+  (pad 1 smd trapezoid (at 11.1 4.62) (size 1.4 1.7) (layers F.Cu F.Paste F.Mask))
+  (pad 2 smd trapezoid (at 8.9 4.62) (size 1.4 1.7) (layers F.Cu F.Paste F.Mask))
+  (pad 4 smd trapezoid (at 0.5 0.75) (size 1.4 1.7) (layers F.Cu F.Paste F.Mask))
+)

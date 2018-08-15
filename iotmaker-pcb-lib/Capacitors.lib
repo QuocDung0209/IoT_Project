@@ -1,0 +1,340 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# 0.9pF
+#
+DEF 0.9pF C 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN
+F1 "0.9pF" 10 -80 50 H V L CNN
+F2 "footprints:C_0603" -90 -30 50 H I C CNN
+F3 "https://www.mouser.vn/datasheet/2/40/C0GNP0-Dielectric-951274.pdf" 10 70 50 H I C CNN
+F4 "06035A0R9CAT2A" 110 170 50 H I C CNN "manf#"
+F5 "Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V .9pF C0G 0603 .25pF Tol" 210 270 50 H I C CNN "Description"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 100nF_0603
+#
+DEF 100nF_0603 C 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN
+F1 "100nF_0603" 10 -80 50 H V L CNN
+F2 "footprints:C_0603" -90 -30 50 H I C CNN
+F3 "https://www.mouser.vn/datasheet/2/447/UPY-GPHC_X7R_6.3V-to-50V_18-1154002.pdf" 10 70 50 H I C CNN
+F4 "CC0603KRX7R9BB104" 110 170 60 H I C CNN "manf#"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10nF
+#
+DEF 10nF C 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN
+F1 "10nF" 10 -80 50 H V L CNN
+F2 "footprints:C_0603" -90 -30 50 H I C CNN
+F3 "https://www.mouser.vn/datasheet/2/40/flexisafe-776743.pdf" 10 70 50 H I C CNN
+F4 "FS035C103K4Z2A" 110 170 50 H I C CNN "manf#"
+F5 "Ceramic Capacitors 50V .01uF X7R 0603 10%" 210 270 50 H I C CNN "Description"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10uF_0603
+#
+DEF 10uF_0603 C 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN
+F1 "10uF_0603" 10 -80 50 H V L CNN
+F2 "footprints:C_0603" -90 -30 50 H I C CNN
+F3 "https://www.mouser.vn/datasheet/2/281/murata_03052018_GRM_Series_1-1310166.pdf" 10 70 50 H I C CNN
+F4 "GRM188R6YA106MA73D" 110 170 60 H I C CNN "manf#"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10uF_1210
+#
+DEF 10uF_1210 C 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN
+F1 "10uF_1210" 10 -80 50 H V L CNN
+F2 "footprints:C_1210" -90 -30 50 H I C CNN
+F3 "https://www.mouser.vn/datasheet/2/396/mlcc02_e-1307760.pdf" 10 70 50 H I C CNN
+F4 "UMK325C7106KM-T" 110 170 60 H I C CNN "manf#"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 12pF
+#
+DEF 12pF C 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN
+F1 "12pF" 10 -80 50 H V L CNN
+F2 "footprints:C_0603" -90 -30 50 H I C CNN
+F3 "https://www.mouser.vn/datasheet/2/281/murata_03122018_GQM_Series-1310188.pdf" 10 70 50 H I C CNN
+F4 "GQM1885C1H120JB01D" 110 170 50 H I C CNN "manf#"
+F5 "Capacitor, 12p, 0603, NP0, 5%, 50V" 210 270 50 H I C CNN "Description"
+F6 "GRM1885C1H120JA01J" 310 370 50 H I C CNN "Part2"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 15pF
+#
+DEF 15pF C 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN
+F1 "15pF" 10 -80 50 H V L CNN
+F2 "footprints:C_0603" -90 -30 50 H I C CNN
+F3 "https://www.mouser.vn/datasheet/2/281/murata_03122018_GQM_Series-1310188.pdf" 10 70 50 H I C CNN
+F4 "GQM1885C1H150JB01D" 110 170 50 H I C CNN "manf#"
+F5 "Capacitor, 15p, 0603, NP0, 5%, 50V" 210 270 50 H I C CNN "Description"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1uF
+#
+DEF 1uF C 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN
+F1 "1uF" 10 -80 50 H V L CNN
+F2 "footprints:C_0603" -90 -30 50 H I C CNN
+F3 "https://www.mouser.vn/datasheet/2/281/product-794232.pdf" 10 70 50 H I C CNN
+F4 "GRT188R61H105KE13D" 110 170 50 H I C CNN "manf#"
+F5 "Ceramic Capacitors 0603 50Vdc 1.0uF X5R 10%" 210 270 50 H I C CNN "Description"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2.4pF_0603
+#
+DEF 2.4pF_0603 C 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN
+F1 "2.4pF_0603" 10 -80 50 H V L CNN
+F2 "footprints:R_0603" -90 -30 50 H I C CNN
+F3 "https://www.mouser.vn/datasheet/2/40/C0GNP0-Dielectric-951274.pdf" 10 70 50 H I C CNN
+F4 "C0603C249C5GACTU" 110 170 60 H I C CNN "manf#"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2.7pF_0603
+#
+DEF 2.7pF_0603 C 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN
+F1 "2.7pF_0603" 10 -80 50 H V L CNN
+F2 "footprints:R_0603" -90 -30 50 H I C CNN
+F3 "https://www.mouser.vn/datasheet/2/40/C0GNP0-Dielectric-951274.pdf" 10 70 50 H I C CNN
+F4 "06035A2R7KAT2A" 110 170 60 H I C CNN "manf#"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 220pF
+#
+DEF 220pF C 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN
+F1 "220pF" 10 -80 50 H V L CNN
+F2 "footprints:C_0603" -90 -30 50 H I C CNN
+F3 "https://www.mouser.vn/datasheet/2/40/C0GNP0-Dielectric-951274.pdf" 10 70 50 H I C CNN
+F4 "06035A221JAT2A" 110 170 50 H I C CNN "manf#"
+F5 "Ceramic Capacitors 50V 220pF C0G 0603 5%" 210 270 50 H I C CNN "Description"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 3.9pF
+#
+DEF 3.9pF C 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN
+F1 "3.9pF" 10 -80 50 H V L CNN
+F2 "footprints:C_0603" -90 -30 50 H I C CNN
+F3 "https://www.mouser.vn/datasheet/2/40/U-Series-894201.pdf" 10 70 50 H I C CNN
+F4 "06035U3R9CAT2A" 110 170 50 H I C CNN "manf#"
+F5 "Ceramic Capacitors 50V 3.9pF C0G 0603 .25pFTol ULow ESR" 210 270 50 H I C CNN "Description"
+F6 "GRM1885C1H3R9CA01D" 310 370 50 H I C CNN "SubPart"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 4.7pF_0603
+#
+DEF 4.7pF_0603 C 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN
+F1 "4.7pF_0603" 10 -80 50 H V L CNN
+F2 "footprints:R_0603" -90 -30 50 H I C CNN
+F3 "https://www.mouser.vn/datasheet/2/40/C0GNP0-Dielectric-951274.pdf" 10 70 50 H I C CNN
+F4 "06035A4R7KAT2A" 110 170 60 H I C CNN "manf#"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 4.7uF_0603
+#
+DEF 4.7uF_0603 C 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN
+F1 "4.7uF_0603" -100 -150 50 V V L CNN
+F2 "footprints:C_0603" -90 -30 50 H I C CNN
+F3 "https://www.mouser.vn/datasheet/2/281/partnumbering_e_01-553455.pdf" 10 70 50 H I C CNN
+F4 "ZRB18AR6YA475KE05L" 110 170 60 H I C CNN "manf#"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 5.6pF
+#
+DEF 5.6pF C 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN
+F1 "5.6pF" 10 -80 50 H V L CNN
+F2 "footprints:C_0603" -90 -30 50 H I C CNN
+F3 "https://www.mouser.vn/datasheet/2/281/murata_03052018_GRM_Series_1-1310166.pdf" 10 70 50 H I C CNN
+F4 "GRM1885C1H5R6CA01D" 110 170 50 H I C CNN "manf#"
+F5 "Ceramic Capacitors 5.6PF 50V .25PF 0603" 210 270 50 H I C CNN "Description"
+F6 "CC0603CRNPO9BN5R6" 310 370 50 H I C CNN "SubPart"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 5.6pF_0603
+#
+DEF 5.6pF_0603 C 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN
+F1 "5.6pF_0603" 10 -80 50 H V L CNN
+F2 "footprints:R_0603" -90 -30 50 H I C CNN
+F3 "https://www.mouser.vn/datasheet/2/40/C0GNP0-Dielectric-951274.pdf" 10 70 50 H I C CNN
+F4 "C0603C569K5GACTU" 110 170 60 H I C CNN "manf#"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 8.2pF
+#
+DEF 8.2pF C 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN
+F1 "8.2pF" 10 -80 50 H V L CNN
+F2 "footprints:C_0603" -90 -30 50 H I C CNN
+F3 "https://www.mouser.vn/datasheet/2/40/AutoMLCC-777028.pdf" 10 70 50 H I C CNN
+F4 "06035A8R2C4T2A" 110 170 50 H I C CNN "manf#"
+F5 "Ceramic Capacitors 50V 8.2pF C0G 0603 .25pFTol" 210 270 50 H I C CNN "Description"
+F6 "06035U8R2CAT2A" 310 370 50 H I C CNN "SubPart"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

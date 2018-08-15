@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name smartCurtains_sch-rescue)(type Legacy)(uri ${KIPRJMOD}/smartCurtains_sch-rescue.lib)(options "")(descr ""))
+)

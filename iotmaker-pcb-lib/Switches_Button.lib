@@ -1,0 +1,60 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# SW_4.5x4.5
+#
+DEF ~SW_4.5x4.5 SW 0 40 N N 1 F N
+F0 "SW" 50 100 50 H V L CNN
+F1 "SW_4.5x4.5" 0 -60 50 H I C CNN
+F2 "footprints:SW_4.5x4.5x3.8mm" 0 200 50 H I C CNN
+F3 "https://www.digikey.com.mx/product-detail/es/wurth-electronics-inc/430181038816/732-7003-1-ND/5225451" 0 200 50 H I C CNN
+F4 "732-7003-1-ND,TL3305CF260QG" 150 200 60 H I C CNN "manf#"
+F5 "SWITCH TACTILE SPST-NO 0.05A 12V" 250 300 60 H V C CNN "Description"
+DRAW
+C -80 0 20 0 1 0 N
+C 80 0 20 0 1 0 N
+P 2 0 1 0 0 50 0 120 N
+P 2 0 1 0 100 50 -100 50 N
+X 1 1 -200 0 100 R 50 50 0 1 P
+X 2 2 200 0 100 L 50 50 0 1 P
+ENDDRAW
+ENDDEF
+#
+# SW_665
+#
+DEF ~SW_665 SW 0 40 N N 1 F N
+F0 "SW" 50 100 50 H V C CNN
+F1 "SW_665" 0 -60 50 H I C CNN
+F2 "Button_Switch_THT:SW_PUSH_6mm_H5mm" 0 200 50 H I C CNN
+F3 "https://www.mouser.vn/datasheet/2/15/SKHH-1370651.pdf" 0 200 50 H I C CNN
+F4 "SKHHAKA010" 150 200 50 H I C CNN "manf#"
+DRAW
+C -80 0 20 0 1 0 N
+C 80 0 20 0 1 0 N
+P 2 0 1 0 0 50 0 120 N
+P 2 0 1 0 100 50 -100 50 N
+X 1 1 -200 0 100 R 50 50 0 1 P
+X 2 2 200 0 100 L 50 50 0 1 P
+ENDDRAW
+ENDDEF
+#
+# SW_touch
+#
+DEF ~SW_touch SW 0 40 N N 1 F N
+F0 "SW" 50 100 50 H V L CNN
+F1 "SW_touch" 0 -60 50 H I C CNN
+F2 "" 0 200 50 H I C CNN
+F3 "https://www.mouser.vn/datasheet/2/15/SKSH-1371000.pdf" 0 200 50 H I C CNN
+F4 "SKSHAAE010" 150 200 60 H I C CNN "manf#"
+F5 "Tactile Switches Low Profile F=1.6N" 250 300 60 H V C CNN "Description"
+DRAW
+C -80 0 20 0 1 0 N
+C 80 0 20 0 1 0 N
+P 2 0 1 0 0 50 0 120 N
+P 2 0 1 0 100 50 -100 50 N
+X 1 1 -200 0 100 R 50 50 0 1 P
+X 2 2 200 0 100 L 50 50 0 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

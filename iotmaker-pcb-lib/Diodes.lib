@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# 1N4148_SOD323
+#
+DEF 1N4148_SOD323 D 0 40 N N 1 F N
+F0 "D" 0 100 50 H V C CNN
+F1 "1N4148_SOD323" 0 -100 50 H V C CNN
+F2 "Diode_SMD:D_SOD-323_HandSoldering" -100 0 50 H I C CNN
+F3 "https://www.fairchildsemi.com/datasheets/1N/1N4148WS.pdf" 0 100 50 H I C CNN
+F4 "1N4148WS" 100 200 50 H I C CNN "manf#"
+$FPLIST
+ TO-???*
+ *_Diode_*
+ *SingleDiode*
+ D_*
+$ENDFPLIST
+DRAW
+P 2 0 1 8 -50 50 -50 -50 N
+P 2 0 1 0 50 0 -50 0 N
+P 4 0 1 8 50 50 50 -50 -50 0 50 50 N
+X K 1 -150 0 100 R 50 50 1 1 P
+X A 2 150 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

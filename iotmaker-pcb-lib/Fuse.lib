@@ -1,0 +1,23 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Fuse_2A
+#
+DEF Fuse_2A F 0 10 N N 1 F N
+F0 "F" 0 -60 50 H V C CNN
+F1 "Fuse_2A" 0 60 50 H V C CNN
+F2 "footprints:Fuse_Size3.6x10_P5.0" -100 -160 50 H I C CNN
+F3 "https://www.mouser.com/datasheet/2/87/bus-elx-ds-10404-c310t-sc-967767.pdf" 0 -60 50 H I C CNN
+F4 "C310T-SC-2-R-TR1" 100 40 50 H I C CNN "manf#"
+$FPLIST
+ SM*
+$ENDFPLIST
+DRAW
+S -50 20 50 -20 0 1 0 N
+P 2 0 1 0 -50 0 50 0 N
+X ~ 1 -100 0 50 R 50 50 1 1 P
+X ~ 2 100 0 50 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library
