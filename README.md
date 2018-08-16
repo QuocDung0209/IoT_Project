@@ -15,4 +15,4 @@ Project hardware control curtain
 
 ### Schematics
 
-![Smart curtains schematic](assets/smartCurtains_sch.svg)
+[![Smart Curtain Schematic](assets/smartCurtains_sch.png)](assets/smartCurtains_sch.svg)

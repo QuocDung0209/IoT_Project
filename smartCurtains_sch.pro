@@ -1,4 +1,4 @@
-update=Thứ ba, 14 Tháng tám Năm 2018 19:31:34 +07
+update=Thứ tư, 15 Tháng tám Năm 2018 16:22:35 +07
 version=1
 last_client=kicad
 [general]
@@ -63,7 +63,7 @@ LibName29=valves
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
-PlotDirectoryName=
+PlotDirectoryName=assets/
 SubpartIdSeparator=0
 SubpartFirstId=65
 NetFmtName=
